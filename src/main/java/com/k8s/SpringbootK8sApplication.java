@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringbootK8sApplication {
 
     public static void main(String[] args) {
+
         SpringApplication.run(SpringbootK8sApplication.class, args);
     }
 
